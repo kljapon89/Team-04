@@ -1,0 +1,7 @@
+com\calzados_store\proyect_calzado_store\models\Venta.class
+com\calzados_store\proyect_calzado_store\resources\ProductosResource.class
+com\calzados_store\proyect_calzado_store\resources\VentasResource.class
+com\calzados_store\proyect_calzado_store\snapshot\JakartaEE10Resource.class
+com\calzados_store\proyect_calzado_store\models\Producto.class
+MongoDBConnector.class
+com\calzados_store\proyect_calzado_store\snapshot\JakartaRestConfiguration.class
